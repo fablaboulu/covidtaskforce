@@ -27,4 +27,5 @@
    * o,5mm PETG Sheet. Time per unit ~2 mm
 
 * **Formlabs**
-![]()
+![](Masks/Formlabs/ohaad_instructions.jpg)
+Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
