@@ -1,6 +1,7 @@
 # Covid Task Force
 ## Masks
 * Fab Lab ULB
+
 ![](https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/images/P1-summary.jpeg)
   * Link to info: [https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/index-en/](https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/index-en/)
   * Link to file [https://gitlab.com/fablab-ulb/projects/coronavirus/protective-face-shields](https://gitlab.com/fablab-ulb/projects/coronavirus/protective-face-shields)
@@ -17,7 +18,9 @@
   * Validated by CHU Saint-Pierre Hospital (Brussels)
 
 * Konrad Klepacki, Mateusz Dyrda
-![](https://hackaday.io/project/170481/gallery#c31b70e1588f63186814749e86da69fe)
-![](https://hackaday.io/project/170481/gallery#fddb29aa5822b1c2c7a33137b6a5d89c)
+
+![](https://cdn.hackaday.io/images/8216541584736507659.jpg)
+
+![](https://cdn.hackaday.io/images/6521771584736681384.jpg)
   * Link to files: [https://hackaday.io/project/170481-laser-cut-medical-shield](https://hackaday.io/project/170481-laser-cut-medical-shield)
   * o,5mm PETG Sheet. Time per unit ~2 mm
