@@ -16,3 +16,8 @@
   * Transparent PVC + Priplak (polypropylene) (1mm thick). Time per unit: ~2min/piece
   * Validated by CHU Saint-Pierre Hospital (Brussels)
 
+* Konrad Klepacki, Mateusz Dyrda
+![](https://hackaday.io/project/170481/gallery#c31b70e1588f63186814749e86da69fe)
+![](https://hackaday.io/project/170481/gallery#fddb29aa5822b1c2c7a33137b6a5d89c)
+  * Link to files: [https://hackaday.io/project/170481-laser-cut-medical-shield](https://hackaday.io/project/170481-laser-cut-medical-shield)
+  * o,5mm PETG Sheet. Time per unit ~2 mm
