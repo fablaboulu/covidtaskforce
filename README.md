@@ -29,3 +29,11 @@
 * **Formlabs**
 ![](Masks/Formlabs/ohaad_instructions.jpg)
 Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
+
+* **Fab Lab Gregorio Marañón Hospital (Validated by the Hospital)**
+![https://pbs.twimg.com/media/ET0ZsmnWoAQpIIn?format=jpg&name=small](https://pbs.twimg.com/media/ET0ZsmnWoAQpIIn?format=jpg&name=small)
+![https://pbs.twimg.com/media/ET0YX4IXgAE6KpB?format=jpg&name=small](https://pbs.twimg.com/media/ET0YX4IXgAE6KpB?format=jpg&name=small)
+  * STL file: [https://t.co/JptT0dFNlS?amp=1]
+  * Adapted from the model : [https://www.youmagine.com/designs/protective-visor-by-3dverkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)
+  * Advantages: No elastic needed, closed on the top, one piece, Acetate A4 holes made with normal punch, Fast impression (0.8mm & 0.6mm)
+  * More info (Spanish, TBT: https://twitter.com/3d_maranon/status/1242177410759524355?s=20)
