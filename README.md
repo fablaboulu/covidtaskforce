@@ -37,3 +37,10 @@ Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
   * Adapted from the model : [https://www.youmagine.com/designs/protective-visor-by-3dverkstan](https://www.youmagine.com/designs/protective-visor-by-3dverkstan)
   * Advantages: No elastic needed, closed on the top, one piece, Acetate A4 holes made with normal punch, Fast impression (0.8mm & 0.6mm)
   * More info (Spanish, TBT: https://twitter.com/3d_maranon/status/1242177410759524355?s=20)
+  
+* **Basque Country Maker Community**
+  * Two different models validated in two different Hospital Areas
+  ![https://covideuskadi.net/wp-content/uploads/2020/04/Visera_Plana_con_cierre_y_ventilacion_0.6.png](https://covideuskadi.net/wp-content/uploads/2020/04/Visera_Plana_con_cierre_y_ventilacion_0.6.png)
+  ![https://covideuskadi.net/wp-content/uploads/2020/03/Bisera_Osakidetza_6-e1585173653868.png](https://covideuskadi.net/wp-content/uploads/2020/03/Bisera_Osakidetza_6-e1585173653868.png)
+  * Both have similar characteristics (material not important...) and need elastics
+  * More info (Spanish): [https://covideuskadi.net/impresion-3d/](https://covideuskadi.net/impresion-3d/)
