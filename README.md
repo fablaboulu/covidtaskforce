@@ -49,8 +49,9 @@ Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
   * More info (Spanish): [https://covideuskadi.net/impresion-3d/](https://covideuskadi.net/impresion-3d/)
  
 * **Sevilla Fab Lab **
-  * Two 3d printed models and one laser cutter
-  
+  * Three 3d printed models:
+     * Two models take 1h30min 
+     * One model take 30-60 min
   
   
   * More info, instructions, links to models (Spanish): [https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit] (https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit)
