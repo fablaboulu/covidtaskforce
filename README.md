@@ -26,7 +26,7 @@
    * Link to files: [https://hackaday.io/project/170481-laser-cut-medical-shield](https://hackaday.io/project/170481-laser-cut-medical-shield)
    * o,5mm PETG Sheet. Time per unit ~2 mm
 
-* **Formlabs**
+* **Stratasys**
 ![](Masks/Formlabs/ohaad_instructions.jpg)
 Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
 
