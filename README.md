@@ -57,7 +57,7 @@ Link to file: [Instructions](Masks/Stratasys/ohaad_instructions.pdf)
   
   * More info, instructions, links to models (Spanish): [https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit] (https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit)
   
- ** Raseko / Iceland **
+*  **Raseko / Iceland**
  ![](https://mk03dverkstanb4pk6hu.kinstacdn.com/wp-content/uploads/2020/03/90349253_10221226740193064_2810190320019439616_o.jpg) 
    * [https://3dverkstan.se/protective-visor/?fbclid=IwAR2QVHaBhRm0hz_IXHiXDs4B_tChDKYJ-iClWdpPbUc6fW_o_occjZ6r0YA](https://3dverkstan.se/protective-visor/?fbclid=IwAR2QVHaBhRm0hz_IXHiXDs4B_tChDKYJ-iClWdpPbUc6fW_o_occjZ6r0YA)
    
