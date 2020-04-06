@@ -59,4 +59,8 @@ Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
   
  ** Raseko / Iceland **
  ![](https://mk03dverkstanb4pk6hu.kinstacdn.com/wp-content/uploads/2020/03/90349253_10221226740193064_2810190320019439616_o.jpg) 
-   * ()[https://3dverkstan.se/protective-visor/?fbclid=IwAR2QVHaBhRm0hz_IXHiXDs4B_tChDKYJ-iClWdpPbUc6fW_o_occjZ6r0YA]
+   * [https://3dverkstan.se/protective-visor/?fbclid=IwAR2QVHaBhRm0hz_IXHiXDs4B_tChDKYJ-iClWdpPbUc6fW_o_occjZ6r0YA](https://3dverkstan.se/protective-visor/?fbclid=IwAR2QVHaBhRm0hz_IXHiXDs4B_tChDKYJ-iClWdpPbUc6fW_o_occjZ6r0YA)
+   
+   ** Berytech Fab Lab **
+![](Masks/Berytech/berytech.png)
+* [File](berytech_mask_ design.dxf) and [mounting instructions](Masks/Berytech/Face_shield_assembly.pdf)
