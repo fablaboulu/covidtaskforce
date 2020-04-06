@@ -62,5 +62,5 @@ Link to file: [Instructions](Masks/Stratasys/ohaad_instructions.pdf)
    * [https://3dverkstan.se/protective-visor/?fbclid=IwAR2QVHaBhRm0hz_IXHiXDs4B_tChDKYJ-iClWdpPbUc6fW_o_occjZ6r0YA](https://3dverkstan.se/protective-visor/?fbclid=IwAR2QVHaBhRm0hz_IXHiXDs4B_tChDKYJ-iClWdpPbUc6fW_o_occjZ6r0YA)
    
 * **Berytech Fab Lab**
-![](Masks/Berytech/berytech.png)
+![](Masks/Berytech/Berytech.png)
   * [File](Masks/Berytech/berytech.dxf) and [mounting instructions](Masks/Berytech/Face_shield_assembly.pdf)
