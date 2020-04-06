@@ -30,7 +30,7 @@
 ![](Masks/Formlabs/ohaad_instructions.jpg)
 Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
 
-* **Fab Lab Gregorio Marañón Hospital (Validated by the Hospital)**
+* **Fab Lab Gregorio Marañón Hospital, Madrid (Validated by the Hospital)**
 ![https://pbs.twimg.com/media/ET0ZsmnWoAQpIIn?format=jpg&name=small](https://pbs.twimg.com/media/ET0ZsmnWoAQpIIn?format=jpg&name=small)
 ![https://pbs.twimg.com/media/ET0YX4IXgAE6KpB?format=jpg&name=small](https://pbs.twimg.com/media/ET0YX4IXgAE6KpB?format=jpg&name=small)
   * STL file: [https://t.co/JptT0dFNlS?amp=1]
@@ -47,3 +47,12 @@ Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
   
   * Both have similar characteristics (material not important...) and need elastics
   * More info (Spanish): [https://covideuskadi.net/impresion-3d/](https://covideuskadi.net/impresion-3d/)
+ 
+* **Sevilla Fab Lab **
+  * Two 3d printed models and one laser cutter
+  
+  
+  
+  * More info, instructions, links to models (Spanish): [https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit] (https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit)
+  
+ 
