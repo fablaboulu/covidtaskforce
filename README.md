@@ -27,8 +27,8 @@
    * o,5mm PETG Sheet. Time per unit ~2 mm
 
 * **Stratasys**
-![](Masks/Formlabs/ohaad_instructions.jpg)
-Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
+![](Masks/Stratasys/ohaad_instructions.jpg)
+Link to file: [Instructions](Masks/Stratasys/ohaad_instructions.pdf)
 
 * **Fab Lab Gregorio Marañón Hospital, Madrid (Validated by the Hospital)**
 ![https://pbs.twimg.com/media/ET0ZsmnWoAQpIIn?format=jpg&name=small](https://pbs.twimg.com/media/ET0ZsmnWoAQpIIn?format=jpg&name=small)
