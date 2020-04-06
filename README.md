@@ -63,4 +63,4 @@ Link to file: [Instructions](Masks/Stratasys/ohaad_instructions.pdf)
    
 * **Berytech Fab Lab**
 ![](Masks/Berytech/berytech.png)
-* [File](berytech_mask_ design.dxf) and [mounting instructions](Masks/Berytech/Face_shield_assembly.pdf)
+  * [File](Masks/Berytech/berytech_mask_ design.dxf) and [mounting instructions](Masks/Berytech/Face_shield_assembly.pdf)
