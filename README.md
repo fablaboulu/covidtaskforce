@@ -52,7 +52,8 @@ Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
   * Three 3d printed models:
      * Two models take 1h30min 
      * One model take 30-60 min
-  
+  * Preferred models (1st and 3rd one):
+  ![https://pbs.twimg.com/media/EUtpx9aWoAgEEYZ?format=jpg&name=small](https://pbs.twimg.com/media/EUtpx9aWoAgEEYZ?format=jpg&name=small)
   
   * More info, instructions, links to models (Spanish): [https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit] (https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit)
   
