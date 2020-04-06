@@ -6,7 +6,7 @@
    * Link to info: [https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/index-en/](https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/index-en/)
    * Link to file [https://gitlab.com/fablab-ulb/projects/coronavirus/protective-face-shields](https://gitlab.com/fablab-ulb/projects/coronavirus/protective-face-shields)
    * PETG or PLA + transparent A4 sheet (PVC, Acetate...). Time per unit ~30 min
-     * Alternative by Andreas Kopp (used in Munich hospital): [https://www.thingiverse.com/thing:4254884](https://www.thingiverse.com/thing:4254884) -> 11 min printing
+     * Alternative by Andreas Kopp (used in Munich hospital): [https://www.thingiverse.com/thing:4239203](https://www.thingiverse.com/thing:4254884) -> 11 min printing
   
 ![](https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/images/P2-summary.jpeg)
    * Link to file: [https://www.thingiverse.com/thing:4159366](https://www.thingiverse.com/thing:4159366)
@@ -57,4 +57,6 @@ Link to file: [Instructions](Masks/Formlabs/ohaad_instructions.pdf)
   
   * More info, instructions, links to models (Spanish): [https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit] (https://docs.google.com/document/d/1ZGGPAnLHep-XhOIiMBEJYYkVxy3LLOOCDgDfDMIugrw/edit)
   
- 
+ ** Raseko / Iceland **
+ ![](https://mk03dverkstanb4pk6hu.kinstacdn.com/wp-content/uploads/2020/03/90349253_10221226740193064_2810190320019439616_o.jpg) 
+   * ()[https://3dverkstan.se/protective-visor/?fbclid=IwAR2QVHaBhRm0hz_IXHiXDs4B_tChDKYJ-iClWdpPbUc6fW_o_occjZ6r0YA]
