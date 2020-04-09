@@ -1,5 +1,5 @@
 # Covid Task Force
-## Masks
+## Anti Split Shields
 * **Fab Lab ULB**
 
 ![](https://fablab-ulb.gitlab.io/projects/coronavirus/protective-face-shields/images/P1-summary.jpeg)
@@ -64,3 +64,9 @@ Link to file: [Instructions](Masks/Stratasys/ohaad_instructions.pdf)
 * **Berytech Fab Lab**
 ![](Masks/Berytech/Berytech.png)
   * [File](Masks/Berytech/berytech.dxf) and [mounting instructions](Masks/Berytech/Face_shield_assembly.pdf)
+  
+ ## Masks
+* [https://github.com/BarrowNeurological/COVID-19/tree/master/N95%20Replacement](https://github.com/BarrowNeurological/COVID-19/tree/master/N95%20Replacement)
+
+* [https://www.barrowneuro.org/get-to-know-barrow/barrow-innovation-center-2/3d-printed-n95-mask/](https://www.barrowneuro.org/get-to-know-barrow/barrow-innovation-center-2/3d-printed-n95-mask/)
+
